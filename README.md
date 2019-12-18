@@ -7,6 +7,8 @@ This data is from 2017, the nazis on this probably don't live at that location a
 ## download shape files
 https://catalog.data.gov/dataset/tiger-line-shapefile-2017-nation-u-s-current-county-and-equivalent-national-shapefile
 
+the zip file
+
 make sure this is put in the same folder as the project.
 
 ## python modules
