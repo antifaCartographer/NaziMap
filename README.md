@@ -11,8 +11,11 @@ make sure this is put in the same folder as the project.
 
 ## python modules
 pandas
+
 matplotlib
+
 geopandas
+
 shapely
 
 # usage
